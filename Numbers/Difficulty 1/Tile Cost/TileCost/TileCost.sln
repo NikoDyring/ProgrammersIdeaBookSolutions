@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TileCost", "TileCost\TileCost.csproj", "{2B601830-AD0C-4426-A140-F4A061A0C6CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B601830-AD0C-4426-A140-F4A061A0C6CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B601830-AD0C-4426-A140-F4A061A0C6CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B601830-AD0C-4426-A140-F4A061A0C6CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B601830-AD0C-4426-A140-F4A061A0C6CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C6C03BB5-072F-45FC-A22B-BC936128DF43}
+	EndGlobalSection
+EndGlobal
