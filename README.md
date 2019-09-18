@@ -2,8 +2,8 @@
 All the assignments I've done from "The Programmers Idea Book"
 
 ## Numbers
-- [x]Find Cost of Tile to cover W * L Floor  
-- [x]Tax Calculator  
+- [x] Find Cost of Tile to cover W * L Floor
+- [x] Tax Calculator
 
 ## Text
 - [ ] Reverse a String
