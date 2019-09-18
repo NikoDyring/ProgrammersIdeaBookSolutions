@@ -1,4 +1,4 @@
-# stunning-potato
+# Programmers Idea Book Solutions
 All the assignments I've done from "The Programmers Idea Book"
 
 ## Numbers
