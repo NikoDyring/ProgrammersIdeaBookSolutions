@@ -10,7 +10,7 @@ All the assignments I've done from "The Programmers Idea Book"
 - [ ] Pig Latin  
 - [x] Count Vowels
 - [ ] Check if Palindrome
-- [ ] Count Words in a String
+- [x] Count Words in a String
 - [ ] Text Editor
 - [ ] RSS Feed Creator
 - [ ] Post it Notes Program
