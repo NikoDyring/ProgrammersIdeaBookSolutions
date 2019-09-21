@@ -9,7 +9,7 @@ All the assignments I've done from "The Programmers Idea Book"
 - [x] Reverse a String
 - [ ] Pig Latin  
 - [x] Count Vowels
-- [ ] Check if Palindrome
+- [x] Check if Palindrome
 - [x] Count Words in a String
 - [ ] Text Editor
 - [ ] RSS Feed Creator
