@@ -6,9 +6,9 @@ All the assignments I've done from "The Programmers Idea Book"
 - [x] Tax Calculator
 
 ## Text
-- [ ] Reverse a String
+- [x] Reverse a String
 - [ ] Pig Latin  
-- [ ] Count Vowels
+- [x] Count Vowels
 - [ ] Check if Palindrome
 - [ ] Count Words in a String
 - [ ] Text Editor
