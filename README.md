@@ -1,5 +1,6 @@
 # Programmers Idea Book Solutions
 Spare time projects from "The Programmers Idea Book". 
+*Some Projects might not be uploaded to GitHub yet.*
 
 ## Numbers
 - [x] Find Cost of Tile to cover W * L Floor
@@ -93,12 +94,12 @@ Spare time projects from "The Programmers Idea Book".
 ## Databases
 - [ ] SQL Query Analyzer
 - [ ] Remote SQL Tool
-- [ ] Pokemon Card Collector
+- [x] Pokemon Card Collector
 - [ ] Report Generator
 - [ ] Database Backup Script Maker
 - [ ] Event Scheduler and Calendar
 - [ ] Budget Tracker
-- [ ] Address Book
+- [x] Address Book
 - [ ] TV Show Tracker
 - [ ] Travel Planner System
 - [ ] Entity Relation Diagram Creator
@@ -128,6 +129,6 @@ Spare time projects from "The Programmers Idea Book".
 - [ ] Battleship
 - [ ] Chess
 - [ ] Checkers
-- [ ] Hangman
-- [ ] Crossword Puzzle
-- [ ] Frogger
+- [x] Hangman
+- [x] Crossword Puzzle
+- [x] Frogger
